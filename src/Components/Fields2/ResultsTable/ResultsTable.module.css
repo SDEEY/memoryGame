@@ -1,0 +1,18 @@
+.container{
+    width: 200px;
+    min-height: 100px;
+    height: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+h3{
+    color: white;
+}
+
+.container span{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}

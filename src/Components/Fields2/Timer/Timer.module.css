@@ -1,0 +1,25 @@
+.timerContainer{
+    text-align: center;
+}
+
+.timerContainer div span{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+
+.timerContainer button{
+    border: none;
+    outline: none;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 30px;
+    transition: .3s;
+    margin: 20px 5px 20px 5px;
+    cursor: pointer;
+}
+
+.timerContainer button:hover{
+    background-color: #411c1c;
+    color: white;
+}
